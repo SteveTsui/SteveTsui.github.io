@@ -1,0 +1,442 @@
+[
+  {
+    "title": "Associative Recurrent Bilinear Optimization for Domain-Generalized Binary Neural Networks",
+    "venue": "International Journal of Computer Vision (IJCV)",
+    "year": 2026,
+    "authors": "Sheng Xu, Yanjing Li, Mingze Wang, Chuanjian Liu, Baochang Zhang",
+    "label": "CCF-A",
+    "role": "first",
+    "url": "https://link.springer.com/article/10.1007/s11263-026-02762-x",
+    "image": "assets/paper-1.png",
+    "code": null,
+    "equalContributionAuthors": [
+      "Sheng Xu",
+      "Yanjing Li"
+    ],
+    "correspondingAuthors": [],
+    "journalMetrics": {
+      "year": 2025,
+      "impactFactor": 10.3,
+      "quartile": "Q1",
+      "source": "https://link.springer.com/journal/11263"
+    }
+  },
+  {
+    "title": "MaPP: A Unified Marginalized Posterior-Predictive Framework for Data-Efficient RLVR",
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2026,
+    "authors": "Yangyang Ren, Haodong Zhu, Sheng Xu, Yanjing Li, Nikolai Yu. Zolotykh, Wentao Zhang, Baochang Zhang",
+    "label": "CCF-A",
+    "role": "corresponding",
+    "url": "https://arxiv.org/abs/2609.34990",
+    "pdf": "https://arxiv.org/pdf/2609.34990",
+    "image": "assets/paper-9.png",
+    "code": null,
+    "equalContributionAuthors": [
+      "Yangyang Ren",
+      "Haodong Zhu"
+    ],
+    "correspondingAuthors": [
+      "Sheng Xu"
+    ]
+  },
+  {
+    "title": "InfraNet: Quality-Aware RGB Guidance for Efficient Infrared Object Detection",
+    "venue": "European Conference on Computer Vision (ECCV)",
+    "year": 2026,
+    "authors": "Zichao Feng, Haodong Zhu, Jingying Yang, Sheng Xu, Yangyang Ren, Yuguang Yang, Xuhui Liu, Juan Zhang, Tian Wang, Linlin Yang, Baochang Zhang",
+    "label": "CCF-B",
+    "role": "corresponding",
+    "url": "https://arxiv.org/abs/2607.03795",
+    "pdf": "https://arxiv.org/pdf/2607.03795",
+    "image": "assets/paper-10.png",
+    "code": null,
+    "equalContributionAuthors": [
+      "Zichao Feng",
+      "Haodong Zhu"
+    ],
+    "correspondingAuthors": [
+      "Sheng Xu"
+    ]
+  },
+  {
+    "title": "Learning Accurate Low-Bit Quantization towards Efficient Computational Imaging",
+    "venue": "International Journal of Computer Vision (IJCV)",
+    "year": 2025,
+    "authors": "Sheng Xu, Yanjing Li, Chuanjian Liu, Baochang Zhang",
+    "label": "CCF-A",
+    "role": "first",
+    "url": "https://link.springer.com/article/10.1007/s11263-024-02250-0",
+    "image": "assets/q-imaging.png",
+    "code": null,
+    "equalContributionAuthors": [
+      "Sheng Xu",
+      "Yanjing Li"
+    ],
+    "correspondingAuthors": [],
+    "journalMetrics": {
+      "year": 2025,
+      "impactFactor": 10.3,
+      "quartile": "Q1",
+      "source": "https://link.springer.com/journal/11263"
+    }
+  },
+  {
+    "title": "Calibrated Gradient Descent of Convolutional Neural Networks for Embodied Visual Recognition",
+    "venue": "Image and Vision Computing (IVC)",
+    "year": 2025,
+    "authors": "Zhiming Wang, Sheng Xu, Li’an Zhuo, Baochang Zhang, Yanjing Li, Zhenqian Wang, Guodong Guo",
+    "label": "",
+    "role": "first corresponding",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0262885625001568",
+    "image": "assets/cgd.jpg",
+    "code": null,
+    "imageSource": "https://ars.els-cdn.com/content/image/1-s2.0-S0262885625001568-gr1.jpg",
+    "equalContributionAuthors": [
+      "Zhiming Wang",
+      "Sheng Xu"
+    ],
+    "correspondingAuthors": [
+      "Sheng Xu"
+    ],
+    "journalMetrics": {
+      "year": 2025,
+      "impactFactor": 5,
+      "quartile": "Q1",
+      "source": "https://portalcientifico.uam.es/es/ipublic/source/8418"
+    }
+  },
+  {
+    "title": "Learning 1-Bit Tiny Object Detector with Discriminative Feature Refinement",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2024,
+    "authors": "Sheng Xu, Mingze Wang, Yanjing Li, Mingbao Lin, Baochang Zhang, David Doermann, Xiao Sun",
+    "label": "CCF-A",
+    "role": "first",
+    "url": "https://proceedings.mlr.press/v235/xu24z.html",
+    "pdf": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/xu24z/xu24z.pdf",
+    "image": "assets/dfr.png",
+    "code": null,
+    "equalContributionAuthors": [
+      "Sheng Xu",
+      "Mingze Wang",
+      "Yanjing Li"
+    ],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "Q-DETR: An Efficient Low-Bit Quantized Detection Transformer",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": 2023,
+    "authors": "Sheng Xu, Yanjing Li, Mingbao Lin, Peng Gao, Guodong Guo, Jinhu Lü, Baochang Zhang",
+    "label": "Highlight · CCF-A",
+    "role": "first",
+    "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Q-DETR_An_Efficient_Low-Bit_Quantized_Detection_Transformer_CVPR_2023_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Q-DETR_An_Efficient_Low-Bit_Quantized_Detection_Transformer_CVPR_2023_paper.pdf",
+    "image": "assets/q-detr.png",
+    "code": "https://github.com/SteveTsui/Q-DETR",
+    "equalContributionAuthors": [
+      "Sheng Xu",
+      "Yanjing Li"
+    ],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "Resilient Binary Neural Network",
+    "venue": "AAAI Conference on Artificial Intelligence (AAAI)",
+    "year": 2023,
+    "authors": "Sheng Xu, Yanjing Li, Teli Ma, Mingbao Lin, Hao Dong, Baochang Zhang, Peng Gao, Jinhu Lu",
+    "label": "Oral · CCF-A",
+    "role": "first",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26261",
+    "pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/26261/26033",
+    "image": "assets/rebnn.png",
+    "code": "https://github.com/SteveTsui/ReBNN",
+    "equalContributionAuthors": [
+      "Sheng Xu",
+      "Yanjing Li",
+      "Teli Ma"
+    ],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "Recurrent Bilinear Optimization for Binary Neural Networks",
+    "venue": "European Conference on Computer Vision (ECCV)",
+    "year": 2022,
+    "authors": "Sheng Xu, Yanjing Li, Tiancheng Wang, Teli Ma, Baochang Zhang, Peng Gao, Yu Qiao, Jinhu Lv, Guodong Guo",
+    "label": "Oral · CCF-B",
+    "role": "first",
+    "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840019.pdf",
+    "pdf": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840019.pdf",
+    "image": "assets/rbonn.png",
+    "code": "https://github.com/SteveTsui/RBONN",
+    "equalContributionAuthors": [
+      "Sheng Xu",
+      "Yanjing Li"
+    ],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "IDa-Det: An Information Discrepancy-aware Distillation for 1-Bit Detectors",
+    "venue": "European Conference on Computer Vision (ECCV)",
+    "year": 2022,
+    "authors": "Sheng Xu, Yanjing Li, Bohan Zeng, Baochang Zhang, Xianbin Cao, Peng Gao, Jinhu Lv",
+    "label": "CCF-B",
+    "role": "first",
+    "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710347.pdf",
+    "pdf": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710347.pdf",
+    "image": "assets/ida-det.png",
+    "code": "https://github.com/SteveTsui/IDa-Det",
+    "equalContributionAuthors": [
+      "Sheng Xu",
+      "Yanjing Li",
+      "Bohan Zeng"
+    ],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "BiRe-ID: Binary Neural Network for Efficient Person Re-ID",
+    "venue": "ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)",
+    "year": 2022,
+    "authors": "Sheng Xu, Chang Liu, Baochang Zhang, Jinhu Lü, Guodong Guo, David Doermann",
+    "label": "CCF-B",
+    "role": "first",
+    "url": "https://doi.org/10.1145/3473340",
+    "image": "assets/bire.png",
+    "code": null,
+    "imageSource": "https://figures.semanticscholar.org/809edeb47770334d41ee8f908ea30c648cbc8678/3-Figure1-1.png",
+    "equalContributionAuthors": [],
+    "correspondingAuthors": [],
+    "journalMetrics": {
+      "year": 2025,
+      "impactFactor": 5.6,
+      "quartile": "Q1",
+      "source": "https://ooir.org/j.php?issn=1551-6857"
+    }
+  },
+  {
+    "title": "Layer-Wise Searching for 1-Bit Detectors",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": 2021,
+    "authors": "Sheng Xu, Junhe Zhao, Jinhu Lu, Baochang Zhang, Shumin Han, David Doermann",
+    "label": "Oral · CCF-A",
+    "role": "first",
+    "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Layer-Wise_Searching_for_1-Bit_Detectors_CVPR_2021_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Layer-Wise_Searching_for_1-Bit_Detectors_CVPR_2021_paper.pdf",
+    "image": "assets/lws-det.png",
+    "code": null,
+    "equalContributionAuthors": [],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "Bi-ViT: Pushing the Limit of Vision Transformer Quantization",
+    "venue": "AAAI Conference on Artificial Intelligence (AAAI)",
+    "year": 2024,
+    "authors": "Yanjing Li, Sheng Xu, Mingbao Lin, Xianbin Cao, Chuanjian Liu, Xiao Sun, Baochang Zhang",
+    "label": "CCF-A",
+    "role": "first",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28109",
+    "pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/28109/28222",
+    "image": "assets/bi_vit.png",
+    "code": "https://github.com/YanjingLi0202/Bi-ViT",
+    "equalContributionAuthors": [
+      "Yanjing Li",
+      "Sheng Xu"
+    ],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "DCP-NAS: Discrepant Child-Parent Neural Architecture Search for 1-Bit CNNs",
+    "venue": "International Journal of Computer Vision (IJCV)",
+    "year": 2023,
+    "authors": "Yanjing Li, Sheng Xu, Xianbin Cao, Li’an Zhuo, Baochang Zhang, Tian Wang, Guodong Guo",
+    "label": "CCF-A",
+    "role": "first",
+    "url": "https://link.springer.com/article/10.1007/s11263-023-01836-4",
+    "image": "assets/dcp_nas.png",
+    "code": null,
+    "equalContributionAuthors": [
+      "Yanjing Li",
+      "Sheng Xu"
+    ],
+    "correspondingAuthors": [],
+    "journalMetrics": {
+      "year": 2025,
+      "impactFactor": 10.3,
+      "quartile": "Q1",
+      "source": "https://link.springer.com/journal/11263"
+    }
+  },
+  {
+    "title": "Q-DM: An Efficient Low-Bit Quantized Diffusion Model",
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2023,
+    "authors": "Yanjing Li, Sheng Xu, Xianbin Cao, Xiao Sun, Baochang Zhang",
+    "label": "CCF-A",
+    "role": "first",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/f1ee1cca0721de55bb35cf28ab95e1b4-Abstract-Conference.html",
+    "pdf": "https://proceedings.neurips.cc/paper_files/paper/2023/file/f1ee1cca0721de55bb35cf28ab95e1b4-Paper-Conference.pdf",
+    "image": "assets/q-dm.png",
+    "code": null,
+    "equalContributionAuthors": [
+      "Yanjing Li",
+      "Sheng Xu"
+    ],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "Representation Disparity-aware Distillation for 3D Object Detection",
+    "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "year": 2023,
+    "authors": "Yanjing Li, Sheng Xu, Mingbao Lin, Jihao Yin, Baochang Zhang, Xianbin Cao",
+    "label": "CCF-A",
+    "role": "first",
+    "url": "https://openaccess.thecvf.com/content/ICCV2023/html/Li_Representation_Disparity-aware_Distillation_for_3D_Object_Detection_ICCV_2023_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Representation_Disparity-aware_Distillation_for_3D_Object_Detection_ICCV_2023_paper.pdf",
+    "image": "assets/rdd.png",
+    "code": "https://github.com/YanjingLi0202/RDD",
+    "equalContributionAuthors": [
+      "Yanjing Li",
+      "Sheng Xu"
+    ],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "Towards Compact 1-Bit CNNs via Bayesian Learning",
+    "venue": "International Journal of Computer Vision (IJCV)",
+    "year": 2022,
+    "authors": "Junhe Zhao, Sheng Xu, Baochang Zhang, Jiaxin Gu, David Doermann, Guodong Guo",
+    "label": "CCF-A",
+    "role": "first",
+    "url": "https://link.springer.com/article/10.1007/s11263-021-01543-y",
+    "image": "assets/compact.png",
+    "code": null,
+    "imageSource": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11263-021-01543-y/MediaObjects/11263_2021_1543_Fig1_HTML.png",
+    "equalContributionAuthors": [
+      "Junhe Zhao",
+      "Sheng Xu"
+    ],
+    "correspondingAuthors": [],
+    "journalMetrics": {
+      "year": 2025,
+      "impactFactor": 10.3,
+      "quartile": "Q1",
+      "source": "https://link.springer.com/journal/11263"
+    }
+  },
+  {
+    "title": "Q-ViT: Accurate and Fully Quantized Low-Bit Vision Transformer",
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2022,
+    "authors": "Yanjing Li, Sheng Xu, Baochang Zhang, Xianbin Cao, Peng Gao, Guodong Guo",
+    "label": "CCF-A",
+    "role": "first",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/deb921bff461a7b0a5c344a4871e7101-Abstract.html",
+    "pdf": "https://proceedings.neurips.cc/paper_files/paper/2022/file/deb921bff461a7b0a5c344a4871e7101-Paper-Conference.pdf",
+    "image": "assets/q-vit.png",
+    "code": "https://github.com/YanjingLi0202/Q-ViT",
+    "equalContributionAuthors": [
+      "Yanjing Li",
+      "Sheng Xu"
+    ],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2026,
+    "authors": "Haoyu Huang, Linlin Yang, Sheng Xu, Boyu Liu, Guodong Guo, Zhongqian Fu, Hang Zhou, Baochang Zhang",
+    "url": "https://proceedings.mlr.press/v306/huang26br.html",
+    "image": "assets/fair-calib.png",
+    "imageSource": "https://arxiv.org/html/2606.06547v2/main_pic_v2.png",
+    "label": "CCF-A",
+    "role": "coauthor",
+    "equalContributionAuthors": [],
+    "correspondingAuthors": []
+  },
+  {
+    "title": "PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": 2026,
+    "authors": "Yichen Yang, Hong Li, Haodong Zhu, Linin Yang, Guojun Lei, Sheng Xu, Baochang Zhang",
+    "equalContributionAuthors": [
+      "Yichen Yang",
+      "Hong Li"
+    ],
+    "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Yang_PartDiffuser_Part-wise_3D_Mesh_Generation_via_Discrete_Diffusion_CVPR_2026_paper.html",
+    "image": "assets/partdiffuser.png",
+    "imageSource": "https://arxiv.org/html/2511.18801v4/pipeline.png",
+    "label": "CCF-A",
+    "role": "coauthor",
+    "correspondingAuthors": [],
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_PartDiffuser_Part-wise_3D_Mesh_Generation_via_Discrete_Diffusion_CVPR_2026_paper.pdf"
+  },
+  {
+    "title": "PortraitDirector: A Hierarchical Disentanglement Framework for Controllable and Real-time Facial Reenactment",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": 2026,
+    "authors": "Chaonan Ji, Jinwei Qi, Sheng Xu, Peng Zhang, Bang Zhang",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_PortraitDirector_A_Hierarchical_Disentanglement_Framework_for_Controllable_and_Real-time_Facial_CVPR_2026_paper.html",
+    "image": "assets/portraitdirector.png",
+    "imageSource": "https://arxiv.org/html/2604.19129v1/pipeline.png",
+    "label": "CCF-A",
+    "role": "coauthor",
+    "equalContributionAuthors": [],
+    "correspondingAuthors": [],
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_PortraitDirector_A_Hierarchical_Disentanglement_Framework_for_Controllable_and_Real-time_Facial_CVPR_2026_paper.pdf"
+  },
+  {
+    "title": "OmniTalker: One-shot Real-time Text-Driven Talking Audio-Video Generation With Multimodal Style Mimicking",
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2025,
+    "authors": "Zhongjian Wang, Peng Zhang, Jinwei Qi, Guangyuan Wang, Sheng Xu, Bang Zhang",
+    "equalContributionAuthors": [
+      "Zhongjian Wang",
+      "Peng Zhang",
+      "Jinwei Qi"
+    ],
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1f7034b0d7183fa95f1acc4c2bf23c28-Abstract-Conference.html",
+    "pdf": "https://proceedings.neurips.cc/paper_files/paper/2025/file/1f7034b0d7183fa95f1acc4c2bf23c28-Paper-Conference.pdf",
+    "project": "https://humanaigc.github.io/omnitalker/",
+    "image": "assets/omnitalker.png",
+    "imageSource": "https://humanaigc.github.io/omnitalker/content/images/framework-V7.png",
+    "label": "CCF-A",
+    "role": "coauthor",
+    "correspondingAuthors": []
+  },
+  {
+    "title": "Implicit Diffusion Models for Continuous Super-Resolution",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": 2023,
+    "authors": "Sicheng Gao, Xuhui Liu, Bohan Zeng, Sheng Xu, Yanjing Li, Xiaoyan Luo, Jianzhuang Liu, Xiantong Zhen, Baochang Zhang",
+    "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Gao_Implicit_Diffusion_Models_for_Continuous_Super-Resolution_CVPR_2023_paper.html",
+    "code": "https://github.com/Ree1s/IDM",
+    "image": "assets/idm.png",
+    "imageSource": "https://stevetsui.github.io/imgs/idm.png",
+    "label": "CCF-A",
+    "role": "coauthor",
+    "equalContributionAuthors": [],
+    "correspondingAuthors": [],
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Implicit_Diffusion_Models_for_Continuous_Super-Resolution_CVPR_2023_paper.pdf"
+  },
+  {
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing (TGRS)",
+    "year": 2024,
+    "label": "CCF-B",
+    "image": "assets/rsbuilding.png",
+    "imageSource": "https://arxiv.org/html/2403.07564v2/main.png",
+    "code": "https://github.com/Meize0729/RSBuilding",
+    "journalMetrics": {
+      "year": 2025,
+      "impactFactor": 9.4,
+      "quartile": "Q1",
+      "source": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "title": "RSBuilding: Toward General Remote Sensing Image Building Extraction and Change Detection With Foundation Model",
+    "authors": "Mingze Wang, Lili Su, Cilin Yan, Sheng Xu, Pengcheng Yuan, Xiaolong Jiang, Baochang Zhang",
+    "url": "https://doi.org/10.1109/tgrs.2024.3439395",
+    "role": "coauthor",
+    "equalContributionAuthors": [],
+    "correspondingAuthors": []
+  }
+]
